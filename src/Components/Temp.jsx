@@ -1,6 +1,5 @@
 import React from 'react'
-import Food from './Food'
-
+ 
 const Temp = ({name,type,img} ) => {
   return (
      

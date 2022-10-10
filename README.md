@@ -1,2 +1,1 @@
-# Getting Started with Create React App
- 
+##Add your styling and functionalities in this project 
